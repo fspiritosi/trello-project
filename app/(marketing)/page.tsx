@@ -30,7 +30,7 @@ function MarketingPage() {
             Collborate, manage projects, and reach new productivity peaks. From high rises to the home office, the way your tema works is unique - accomplish it all with TAskify
         </div>
         <Button className="mt-6" size='lg' asChild>
-            <Link href='/sing-up'>
+            <Link href='/sign-up'>
                 Get Taskify for free
             </Link>
         </Button>
